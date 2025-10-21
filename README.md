@@ -11,16 +11,16 @@ Welcome to the **Flutter Chat App** repository! This project is designed to prov
 
 ## 📸 App Preview
 <p align="center">
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image1.jpeg" width="250" alt="image1"/>
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image2.jpeg" width="250" alt="image2"/>
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image3.jpeg" width="250" alt="image3"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image1.jpg" width="250" alt="image1"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image2.jpg" width="250" alt="image2"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image3.jpg" width="250" alt="image3"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(4).jpeg" width="250" alt="image4"/>
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(5).jpeg" width="250" alt="image5"/>
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(6).jpeg" width="250" alt="image6"/>
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(7).jpeg" width="250" alt="image6"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image4.jpg" width="250" alt="image4"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image5.jpg" width="250" alt="image5"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image6.jpg" width="250" alt="image6"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image7.jpg" width="250" alt="image6"/>
 </p>
 
 
