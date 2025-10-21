@@ -11,8 +11,8 @@ Welcome to the **Flutter Chat App** repository! This project is designed to prov
 
 ## 📸 App Preview
 <p align="center">
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(1).jpeg" width="250" alt="image1"/>
-  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(2).jpeg" width="250" alt="image2"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%201.jpeg" width="250" alt="image1"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%202.jpeg" width="250" alt="image2"/>
   <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(3).jpeg" width="250" alt="image3"/>
 </p>
 
