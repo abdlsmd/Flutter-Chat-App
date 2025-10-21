@@ -11,16 +11,18 @@ Welcome to the **Flutter Chat App** repository! This project is designed to prov
 
 ## 📸 App Preview
 <p align="center">
-  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(11).jpeg" width="250"/>
-  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(12).jpeg" width="250"/>
-  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(13).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(1).jpeg" width="250" alt="image1"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(2).jpeg" width="250" alt="image2"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(3).jpeg" width="250" alt="image3"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(14).jpeg" width="250"/>
-  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(15).jpeg" width="250"/>
-  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(10).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(4).jpeg" width="250" alt="image4"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(5).jpeg" width="250" alt="image5"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(6).jpeg" width="250" alt="image6"/>
+  <img src="https://github.com/abdlsmd/Flutter-Chat-App/blob/main/image%20(7).jpeg" width="250" alt="image6"/>
 </p>
+
 
 ## Getting Started
 
