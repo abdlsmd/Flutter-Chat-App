@@ -70,5 +70,3 @@ For questions or feedback, you can reach out at [abdlsmd](https://github.com/abd
 ---
 
 Happy coding!
-# Flutter-Chat-App
->>>>>>> 639574506e9199377654a347982df9f7c773902f
