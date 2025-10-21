@@ -9,6 +9,19 @@ Welcome to the **Flutter Chat App** repository! This project is designed to prov
 - **Modern UI**: A sleek and user-friendly interface.
 - **Customizable**: Easily extend the app's functionalities.
 
+## 📸 App Preview
+<p align="center">
+  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(11).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(12).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(13).jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(14).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(15).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Meals-App/blob/main/image%20(10).jpeg" width="250"/>
+</p>
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine for development and testing purposes.
